@@ -14,10 +14,10 @@
   Hi 👋
 </h1>
 
-- 👋 I’m @holarora | Lika from 🇨🇳🇨🇦.
+- 👋 I’m @holarora | Lika from 🇨🇳🇨🇦
 - 🌱 I’m currently a sophomore at Kyoto University, belonging to the Faculty of Informatics.
 - :telescope: I’m training to be a Software Engineer. 
-- 💡 I use React, JavaScript, Typescript. (trying to learn Go)
+- 💡 I use React, JavaScript, Typescript. (I'm also learning Go)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy soccer and video editting!
 
