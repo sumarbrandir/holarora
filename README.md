@@ -5,13 +5,13 @@
   <a href="https://www.instagram.com/lika.2911/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCPmcI8QRpiCLjy9uOWxKODQ">
+<!--   <a href="https://www.youtube.com/channel/UCPmcI8QRpiCLjy9uOWxKODQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <h1>
-  Hi 👋
+  Hello World!
 </h1>
 
 - 👋 I’m @holarora | Lika from 🇨🇳🇨🇦
@@ -19,7 +19,7 @@
 - :telescope: I’m training to be a Software Engineer. 
 - 💡 I use React, JavaScript, Typescript. (I'm also learning Go)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy soccer and video editting!
+- ⚡ Fun fact: I enjoy soccer and video editting.
 
 <!---
 holarora/holarora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
