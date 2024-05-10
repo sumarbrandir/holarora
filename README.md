@@ -17,7 +17,7 @@
 - 👋 I’m @holarora | Lika from 🇨🇳🇨🇦
 - 🌱 I’m currently a sophomore at Kyoto University, belonging to the Faculty of Informatics.
 - :telescope: I’m training to be a Software Engineer. 
-- 💡 I use React, JavaScript, Typescript. (I'm also learning Go)
+- 💡 I use React, JavaScript, Typescript. (I've also started learning Go & Python)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy soccer and video editting.
 
