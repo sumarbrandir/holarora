@@ -19,8 +19,6 @@
 
 - 👋 I’m @holarora | Lika
 - 🌱 I’m currently a sophomore at Kyoto University, belonging to the Faculty of Informatics.
-- 💡 I use React, JavaScript & Typescript.
-- 💭 I'm learning Django & Fast API (Python)
 - 🌼 Pronouns: she/her
 - ⚽ Fun fact: I enjoy soccer and vlogging.
 
