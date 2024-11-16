@@ -17,7 +17,7 @@
   私のページへようこそ!
 </h3>
 
-- 🌼 I’m @holarora | 刘力加
+- I’m @holarora | 刘力加 🌼
 - Currently a sophomore at Kyoto University, belonging to the Faculty of Informatics.
 - Pronouns: she/her
 - Hobbies: soccer and vlogging.
