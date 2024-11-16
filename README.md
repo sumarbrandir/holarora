@@ -17,10 +17,11 @@
   私のページへようこそ!
 </h3>
 
-- 👋 I’m @holarora | Lika
-- 🌱 I’m currently a sophomore at Kyoto University, belonging to the Faculty of Informatics.
-- 🌼 Pronouns: she/her
-- ⚽ Fun fact: I enjoy soccer and vlogging.
+- 🌼 I’m @holarora | 刘力加
+- Currently a sophomore at Kyoto University, belonging to the Faculty of Informatics.
+- Pronouns: she/her
+- Hobbies: soccer and vlogging.
+
 
 <!---
 holarora/holarora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
