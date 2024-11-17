@@ -19,8 +19,7 @@
 
 - I’m @holarora | 刘力加 🌼
 - Pronouns: she/her
-- Currently a sophomore at Kyoto University, belonging to the Faculty of Informatics.
-
+- Sophomore at Kyoto University (Faculty of Informatics, CS Course)
 
 <!---
 holarora/holarora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
